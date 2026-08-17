@@ -1,0 +1,10 @@
+{
+  "name": "featurebase",
+  "description": "Connect Claude to Featurebase for customer support, feedback, CRM, tickets, and help center workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Featurebase"
+  },
+  "homepage": "https://developers.featurebase.app",
+  "repository": "https://github.com/FeaturebaseHQ/featurebase-claude-plugin"
+}
