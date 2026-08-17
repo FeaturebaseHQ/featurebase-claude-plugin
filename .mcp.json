@@ -2,7 +2,7 @@
   "mcpServers": {
     "featurebase": {
       "type": "http",
-      "url": "https://mcp.featurebase.app/mcp"
+      "url": "https://mcp.featurebase.app/"
     }
   }
 }
